@@ -1,0 +1,39 @@
+
+CONFIG	 02-29 12:04	 Day : 0	 Garden Time: 0 	 Logger: logger created
+CONFIG	 02-29 12:52	 Day : 1	 Garden Time: 0 	 System Started
+CONFIG	 02-29 12:52	 Day : 1	 Garden Time: 0 	 Planting Done
+WARNING	 02-29 13:04	 Day : 1	 Garden Time: 1 	 Too cold for Rose
+INFO	 02-29 13:04	 Day : 1	 Garden Time: 1 	 Heater is ON for Rose
+INFO	 02-29 13:55	 Day : 1	 Garden Time: 1 	 Pesticide Override for Rose
+INFO	 02-29 14:11	 Day : 1	 Garden Time: 2 	 Sprinkler Override Rose
+FINE	 02-29 14:11	 Day : 1	 Garden Time: 2 	 Age of Rose increased to 0.83
+INFO	 02-29 14:30	 Day : 1	 Garden Time: 2 	 Pesticide Override for Tulip
+CONFIG	 02-29 16:29	 Day : 0	 Garden Time: 0 	 Logger: logger created
+CONFIG	 02-29 16:32	 Day : 1	 Garden Time: 0 	 System Started
+CONFIG	 02-29 16:32	 Day : 1	 Garden Time: 0 	 Planting Done
+WARNING	 02-29 17:29	 Day : 1	 Garden Time: 1 	 Too cold for Rose
+INFO	 02-29 17:29	 Day : 1	 Garden Time: 1 	 Heater is ON for Rose
+FINE	 02-29 21:30	 Day : 1	 Garden Time: 5 	 Sprinkler is ON for Orange
+FINE	 02-29 21:30	 Day : 1	 Garden Time: 5 	 Age of Orange increased to 0.38
+FINE	 02-29 24:29	 Day : 1	 Garden Time: 8 	 Sprinkler is ON for Tulip
+FINE	 02-29 24:29	 Day : 1	 Garden Time: 8 	 Age of Tulip increased to 1.33
+FINE	 02-29 26:29	 Day : 1	 Garden Time: 10 	 Sprinkler is ON for Rose
+FINE	 02-29 26:29	 Day : 1	 Garden Time: 10 	 Age of Rose increased to 4.17
+FINE	 02-29 26:29	 Day : 1	 Garden Time: 10 	 Sprinkler is ON for Orange
+FINE	 02-29 26:29	 Day : 1	 Garden Time: 10 	 Age of Orange increased to 0.76
+CONFIG	 02-29 31:30	 Day : 0	 Garden Time: 0 	 Logger: logger created
+CONFIG	 02-29 31:33	 Day : 1	 Garden Time: 0 	 System Started
+CONFIG	 02-29 31:33	 Day : 1	 Garden Time: 0 	 Planting Done
+CONFIG	 03-03 15:34	 Day : 0	 Garden Time: 0 	 Logger: logger created
+CONFIG	 03-09 07:28	 Day : 0	 Garden Time: 0 	 Logger: logger created
+CONFIG	 03-09 07:33	 Day : 1	 Garden Time: 0 	 System Started
+CONFIG	 03-09 07:33	 Day : 1	 Garden Time: 0 	 Planting Done
+INFO	 03-09 07:38	 Day : 1	 Garden Time: 0 	 Sprinkler Override Lemon
+INFO	 03-09 07:45	 Day : 1	 Garden Time: 0 	 Sprinkler Override Tomato
+INFO	 03-09 07:46	 Day : 1	 Garden Time: 0 	 Sprinkler Override Apple
+CONFIG	 03-20 49:58	 Day : 0	 Garden Time: 0 	 Logger: logger created
+INFO	 03-20 50:02	 Day : 1	 Garden Time: 0 	 Sprinkler Override Rose
+INFO	 03-20 50:03	 Day : 1	 Garden Time: 0 	 Sprinkler Override Apple
+INFO	 03-20 50:03	 Day : 1	 Garden Time: 0 	 Sprinkler Override Tomato
+INFO	 03-20 50:04	 Day : 1	 Garden Time: 0 	 Sprinkler Override Lemon
+INFO	 03-20 50:05	 Day : 1	 Garden Time: 0 	 Sprinkler Override Orange
